@@ -1,2 +1,0 @@
-# fluxt
-fluxt mobile app
